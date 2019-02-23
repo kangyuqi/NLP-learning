@@ -1,1 +1,1 @@
-# NLP-learning
+# NLP learning from scratch
